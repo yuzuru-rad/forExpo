@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Gitの仕様にfuckな気分</Text>
+      <Text>帰らせてくれ、頼む</Text>
     </View>
   );
 }
